@@ -12,52 +12,5 @@ rem PS: Este script foi baseado no antigo script que havia criado para atualizaï
 rem --> Altera a pagina do cmd para 1252 deste modo posso trabalhar com acentos e caracteres especiais
 chcp 1252 >nul 2>&1
 
-rem --> Verifica se o cmd esta sendo executado como Administrador
-net file >nul 2>&1
-
-rem --> Verifica se o script esta sendo executado como Administrador
-if '%errorlevel%' == '0' (
-    goto begin
-) else (
-    echo.
-    echo Nï¿½o ï¿½ possï¿½vel executar este script corretamente se vocï¿½ nï¿½o possuir privilï¿½gios de Administrador
-    timeout /t 3 >nul 2>&1
-    cls
-    echo.
-    echo O script serï¿½ encerrado, execute ele novamente como Administrador para prosseguir.
-    timeout /t 3 >nul 2>&1
-    goto eof
-    )
-
-rem -->Define o caminho do script
-:begin
-set "batchPath=%~0"
-cd /d %~dp0
-
-rem --> Limpa os arquivos "log" da script de atualizaï¿½ï¿½o
-title Limpando os logs antigos
-
-echo.
-echo Executando a limpeza dos logs antes de iniciar o Menu aï¿½ï¿½es
-del /q %tmp%\logoff.txt >nul 2>&1
-del /q %tmp%\restart.txt >nul 2>&1
-del /q %tmp%\folderIcones.txt >nul 2>&1
-timeout /t 3 >nul 2>&1
-
-:startMenu
-rem --> Menu de aï¿½ï¿½es
-cls
-
-title Menu de aï¿½ï¿½es
-
-echo.
-echo Escolha qual opï¿½ï¿½o deseja executar e pressione enter:
-echo.
-echo 	1ï¿½ Atualizar desktop (Estï¿½ opï¿½ï¿½o nï¿½o precisa de verificaï¿½ï¿½o)
-echo.
-echo 	2ï¿½ Atualizar desktop vip (Estï¿½ opï¿½ï¿½o nï¿½o precisa de verificaï¿½ï¿½o)
-echo.
-echo 	3ï¿½ Atualizar icones do desktop
-
 
 
