@@ -34,5 +34,8 @@ rem -->Define o caminho do script
 set "batchPath=%~0"
 cd /d %~dp0
 
+rem --> Limpa os arquivos "log" da script de atualiza��o
+title Limpando os logs antigos
+
 
 
