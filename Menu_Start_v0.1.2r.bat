@@ -39,5 +39,12 @@ title Limpando os logs antigos
 
 echo.
 echo Executando a limpeza dos logs antes de iniciar o Menu a��es
+del /q %tmp%\logoff.txt >nul 2>&1
+del /q %tmp%\restart.txt >nul 2>&1
+del /q %tmp%\folderIcones.txt >nul 2>&1
+timeout /t 3 >nul 2>&1
+
+:startMenu
+
 
 
