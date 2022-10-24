@@ -37,5 +37,7 @@ cd /d %~dp0
 rem --> Limpa os arquivos "log" da script de atualiza��o
 title Limpando os logs antigos
 
+echo.
+echo Executando a limpeza dos logs antes de iniciar o Menu a��es
 
 
