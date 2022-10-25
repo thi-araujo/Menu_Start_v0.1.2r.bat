@@ -45,6 +45,10 @@ del /q %tmp%\folderIcones.txt >nul 2>&1
 timeout /t 3 >nul 2>&1
 
 :startMenu
+rem --> Menu de a��es
+cls
+
+title Menu de a��es
 
 
 
