@@ -50,5 +50,8 @@ cls
 
 title Menu de a��es
 
+echo.
+echo Escolha qual op��o deseja executar e pressione enter:
+
 
 
