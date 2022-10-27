@@ -20,11 +20,11 @@ if '%errorlevel%' == '0' (
     goto begin
 ) else (
     echo.
-    echo N�o � poss�vel executar este script corretamente se voc� n�o possuir privil�gios de Administrador
+    echo Não � possível executar este script corretamente se voce não possuir privilégios de Administrador
     timeout /t 3 >nul 2>&1
     cls
     echo.
-    echo O script ser� encerrado, execute ele novamente como Administrador para prosseguir.
+    echo O script será encerrado, execute ele novamente como Administrador para prosseguir.
     timeout /t 3 >nul 2>&1
     goto eof
     )
@@ -34,24 +34,26 @@ rem -->Define o caminho do script
 set "batchPath=%~0"
 cd /d %~dp0
 
-rem --> Limpa os arquivos "log" da script de atualiza��o
+rem --> Limpa os arquivos "log" da script de atualização
 title Limpando os logs antigos
 
 echo.
-echo Executando a limpeza dos logs antes de iniciar o Menu a��es
+echo Executando a limpeza dos logs antes de iniciar o Menu ações
 del /q %tmp%\logoff.txt >nul 2>&1
 del /q %tmp%\restart.txt >nul 2>&1
 del /q %tmp%\folderIcones.txt >nul 2>&1
 timeout /t 3 >nul 2>&1
 
 :startMenu
-rem --> Menu de a��es
+rem --> Menu de ações
 cls
 
-title Menu de a��es
+title Menu de ações
 
 echo.
-echo Escolha qual op��o deseja executar e pressione enter:
+echo Escolha qual opção deseja executar e pressione enter:
+echo.
+echo 	1� Atualizar desktop (Est� op��o n�o precisa de verifica��o)
 
 
 
