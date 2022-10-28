@@ -53,7 +53,9 @@ title Menu de ações
 echo.
 echo Escolha qual opção deseja executar e pressione enter:
 echo.
-echo 	1� Atualizar desktop (Est� op��o n�o precisa de verifica��o)
+echo 	1� Atualizar desktop (Esta opção não precisa de verificação)
+echo.
+echo 	2� Atualizar desktop vip (Esta opção não precisa de verificação)
 
 
 
