@@ -56,6 +56,8 @@ echo.
 echo 	1� Atualizar desktop (Esta opção não precisa de verificação)
 echo.
 echo 	2� Atualizar desktop vip (Esta opção não precisa de verificação)
+echo.
+echo 	3� Atualizar icones do desktop
 
 
 
