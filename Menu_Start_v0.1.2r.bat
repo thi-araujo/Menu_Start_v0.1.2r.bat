@@ -58,6 +58,8 @@ echo.
 echo 	2� Atualizar desktop vip (Esta opção não precisa de verificação)
 echo.
 echo 	3� Atualizar icones do desktop
+echo.
+echo 	4� Atualizar icones do desktop vip
 
 
 
