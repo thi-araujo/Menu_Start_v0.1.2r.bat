@@ -60,6 +60,8 @@ echo.
 echo 	3� Atualizar icones do desktop
 echo.
 echo 	4� Atualizar icones do desktop vip
+echo.
+echo 	5� Ativar NumLock na tela de login
 
 
 
