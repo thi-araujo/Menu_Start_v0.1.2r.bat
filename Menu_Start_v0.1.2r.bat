@@ -64,6 +64,8 @@ echo.
 echo 	5� Ativar NumLock na tela de login
 echo.
 echo 	6� Correção para o delay de instalação das impressoras
+echo.
+echo 	7� Desativar os perfis de Firewall
 
 
 
