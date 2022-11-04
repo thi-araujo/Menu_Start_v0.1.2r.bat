@@ -66,6 +66,8 @@ echo.
 echo 	6� Correção para o delay de instalação das impressoras
 echo.
 echo 	7� Desativar os perfis de Firewall
+echo.
+echo 	8� Desativar o UAC
 
 
 
