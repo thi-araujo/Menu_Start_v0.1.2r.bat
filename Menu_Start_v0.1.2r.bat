@@ -70,6 +70,8 @@ echo.
 echo 	8� Desativar o UAC
 echo.
 echo 	9� Desativar o Smartscreen
+echo.
+echo 	10� Desativar o Bing Search
 
 
 
