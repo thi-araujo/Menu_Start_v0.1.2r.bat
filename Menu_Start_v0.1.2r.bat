@@ -78,6 +78,8 @@ echo.
 echo 	12� Sair
 echo.
 
+set menuOption=
+
 
 
 
