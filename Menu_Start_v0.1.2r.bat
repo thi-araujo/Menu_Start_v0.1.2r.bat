@@ -80,6 +80,7 @@ echo.
 
 set menuOption=
 set /p menuOption=Digite a opção:
+if /i '%menuOption%' EQU '1'  goto updateDesktop
 
 
 
