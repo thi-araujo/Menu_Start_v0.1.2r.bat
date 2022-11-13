@@ -83,6 +83,7 @@ set /p menuOption=Digite a opção:
 if /i '%menuOption%' EQU '1'  goto updateDesktop
 if /i '%menuOption%' EQU '2'  goto updateDesktopVip
 if /i '%menuOption%' EQU '3'  goto updateIconesDesktop
+if /i '%menuOption%' EQU '4'  goto updateIconesDesktopVip
 
 
 
