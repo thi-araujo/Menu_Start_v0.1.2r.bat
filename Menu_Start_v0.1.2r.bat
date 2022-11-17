@@ -3,7 +3,7 @@
 cls
 
 rem Vers�o do script: 0.1.2r
-rem Data da cria��o: 18/09/2022
+rem Data da criação: 18/09/2022
 rem Data da revis�o: 04/10/2022
 
 
