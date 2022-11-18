@@ -2,7 +2,7 @@
 
 cls
 
-rem Vers�o do script: 0.1.2r
+rem Versâo do script: 0.1.2r
 rem Data da criação: 18/09/2022
 rem Data da revis�o: 04/10/2022
 
@@ -91,4 +91,3 @@ if /i '%menuOption%' EQU '5'  goto activeNumLockLogin
 
 
 
-atualização
