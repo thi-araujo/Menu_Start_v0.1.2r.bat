@@ -4,7 +4,7 @@ cls
 
 rem Versâo do script: 0.1.2r
 rem Data da criação: 18/09/2022
-rem Data da revisão: 04/10/2022
+rem Data da revisão: 21/11/2022
 
 
 rem PS: Este script foi baseado no antigo script que havia criado para atualização dos desktop.
