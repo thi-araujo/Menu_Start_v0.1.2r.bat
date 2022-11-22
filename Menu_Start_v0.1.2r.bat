@@ -29,12 +29,12 @@ if '%errorlevel%' == '0' (
     goto eof
     )
 
-rem -->Define o caminho do script
+rem -->Esta função define o caminho do script
 :begin
 set "batchPath=%~0"
 cd /d %~dp0
 
-rem --> Limpa os arquivos "log" da script de atualização
+rem -->Essa função limpa os arquivos "log" da script de atualização
 title Limpando os logs antigos
 
 echo.
