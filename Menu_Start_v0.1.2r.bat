@@ -2,7 +2,7 @@
 
 cls
 
-rem Versâo do script: 0.1.2r
+rem Versâo do script: 0.1.3r
 rem Data da criação: 18/09/2022
 rem Data da revisão: 01/12/2022
 
