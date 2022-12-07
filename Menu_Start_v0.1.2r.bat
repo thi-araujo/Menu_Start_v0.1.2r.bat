@@ -12,7 +12,7 @@ rem PS: Este script foi baseado no antigo script que havia criado para atualiza�
 rem --> Esta função altera a pagina do cmd para 1252 deste modo posso trabalhar com acentos e caracteres especiais
 chcp 1252 >nul 2>&1
 
-rem --> Esta função verifica se o CMD esta sendo executado como Administrador
+rem --> Esta função verifica se o CMD esta realmente sendo executado como Administrador
 net file >nul 2>&1
 
 rem --> Esta função verifica se o script esta sendo executado como Administrador
