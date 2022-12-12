@@ -45,7 +45,7 @@ del /q %tmp%\folderIcones.txt >nul 2>&1
 timeout /t 3 >nul 2>&1
 
 :startMenu
-rem --> Abaixo temos as opções do menu de ações
+rem --> Abaixo temos as opções do menu de ações:
 cls
 
 title Menu de ações
