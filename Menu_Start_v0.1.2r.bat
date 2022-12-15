@@ -9,7 +9,7 @@ rem Data da revisão: 01/12/2022
 
 rem PS: Essa script foi baseado no antigo script que havia criado para atualização dos desktop.
 
-rem --> Esta função altera a pagina do cmd para 1252 deste modo posso trabalhar com acentos e caracteres especiais
+rem --> Função para alterar a pagina do cmd para 1252 deste modo posso trabalhar com acentos e caracteres especiais
 chcp 1252 >nul 2>&1
 
 rem --> Esta função verifica se o CMD esta realmente sendo executado como Administrador
