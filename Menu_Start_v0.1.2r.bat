@@ -73,7 +73,7 @@ echo 	9� Desativar o Smartscreen
 echo.
 echo 	10� Desativar o Bing Search
 echo.
-echo 	11� Verificar se será preciso realizar o logoff ou reiniciar após as ações executadas
+echo 	11� Verificar se será preciso realizar o Logoff ou reiniciar após as ações executadas
 echo.
 echo 	12� Sair
 echo.
