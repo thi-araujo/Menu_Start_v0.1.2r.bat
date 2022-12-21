@@ -59,7 +59,7 @@ echo 	2� Atualizar desktop vip (Esta opção não precisa de verificação)
 echo.
 echo 	3� Atualizar icones do Desktop
 echo.
-echo 	4� Atualizar icones do desktop vip
+echo 	4� Atualizar icones do Desktop Vip
 echo.
 echo 	5� Ativar NumLock na tela de login
 echo.
