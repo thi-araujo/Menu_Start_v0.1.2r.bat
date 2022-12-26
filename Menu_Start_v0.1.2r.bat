@@ -65,7 +65,7 @@ echo 	5� Ativar NumLock na tela de login
 echo.
 echo 	6� Correção para o Delay de Instalação das impressoras
 echo.
-echo 	7� Desativar os perfis de Firewall
+echo 	7� Desativar os Perfis de Firewall
 echo.
 echo 	8� Desativar o UAC
 echo.
