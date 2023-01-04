@@ -61,7 +61,7 @@ echo 	3� Atualizar Icones do Desktop
 echo.
 echo 	4� Atualizar Icones do Desktop Vip
 echo.
-echo 	5� Ativar NumLock na tela de Login
+echo 	5� Ativar NumLock na Tela de Login
 echo.
 echo 	6� Correção para o Delay de Instalação das Impressoras
 echo.
