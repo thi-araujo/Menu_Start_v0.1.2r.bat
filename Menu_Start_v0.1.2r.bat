@@ -55,7 +55,7 @@ echo Escolha qual opção deseja executar e pressione enter:
 echo.
 echo 	1� Atualizar Desktop (Esta opção não precisa de verificação)
 echo.
-echo 	2� Atualizar Desktop vip (Esta opção não precisa de verificação)
+echo 	2� Atualizar Desktop Vip (Esta opção não precisa de verificação)
 echo.
 echo 	3� Atualizar Icones do Desktop
 echo.
