@@ -51,7 +51,7 @@ cls
 title Menu de ações
 
 echo.
-echo Escolha qual opção deseja executar e pressione enter:
+echo Escolha qual opção deseja executar e pressione Enter:
 echo.
 echo 	1� Atualizar Desktop (Esta opção não precisa de verificação)
 echo.
