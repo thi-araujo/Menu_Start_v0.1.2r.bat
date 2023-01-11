@@ -48,7 +48,7 @@ timeout /t 3 >nul 2>&1
 rem --> Abaixo temos as opções que será exibida no menu de ações:
 cls
 
-title Menu de ações
+title Menu de Ações
 
 echo.
 echo Escolha qual opção deseja executar e pressione Enter:
