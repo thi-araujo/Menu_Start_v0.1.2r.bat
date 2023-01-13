@@ -38,7 +38,7 @@ rem -->Essa função limpa os arquivos "log" da script de atualização
 title Limpando os logs antigos
 
 echo.
-echo Executando a limpeza dos logs antes de iniciar o Menu Ações
+echo Executando a Limpeza dos logs antes de iniciar o Menu Ações
 del /q %tmp%\logoff.txt >nul 2>&1
 del /q %tmp%\restart.txt >nul 2>&1
 del /q %tmp%\folderIcones.txt >nul 2>&1
