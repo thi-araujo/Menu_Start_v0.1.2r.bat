@@ -15,7 +15,7 @@ chcp 1252 >nul 2>&1
 rem --> Esta função verifica se o CMD esta realmente sendo executado como Administrador
 net file >nul 2>&1
 
-rem --> Esta função verifica se o script esta sendo executado como ADM
+rem --> Esta função verifica se o Script esta sendo executado como ADM
 if '%errorlevel%' == '0' (
     goto begin
 ) else (
