@@ -34,7 +34,7 @@ rem -->Esta função define o caminho do Script
 set "batchPath=%~0"
 cd /d %~dp0
 
-rem -->Essa função limpa os arquivos "log" da script de atualização
+rem -->Essa função limpa os arquivos "log" da script de Atualização
 title Limpando os logs antigos
 
 echo.
