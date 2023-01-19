@@ -24,7 +24,7 @@ if '%errorlevel%' == '0' (
     timeout /t 3 >nul 2>&1
     cls
     echo.
-    echo O script será encerrado, execute ele novamente como Administrador para prosseguir.
+    echo O Script será encerrado, execute ele novamente como Administrador para prosseguir.
     timeout /t 3 >nul 2>&1
     goto eof
     )
