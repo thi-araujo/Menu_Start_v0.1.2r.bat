@@ -20,7 +20,7 @@ if '%errorlevel%' == '0' (
     goto begin
 ) else (
     echo.
-    echo Não � possível executar este script corretamente se voce não possuir privilégios de Administrador
+    echo Não � possível executar este Script corretamente se voce não possuir privilégios de Administrador
     timeout /t 3 >nul 2>&1
     cls
     echo.
