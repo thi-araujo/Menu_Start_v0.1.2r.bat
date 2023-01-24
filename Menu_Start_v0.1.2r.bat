@@ -7,7 +7,7 @@ rem Data da criação: 20/10/2022
 rem Data da revisão: 01/12/2022
 
 
-rem PS: Essa Script foi baseado no antigo script que havia criado para atualização dos desktop.
+rem PS: Essa Script foi baseado no antigo Script que havia criado para atualização dos desktop.
 
 rem --> Função para Alterar a pagina do CMD para 1252 deste modo posso trabalhar com acentos e caracteres especiais
 chcp 1252 >nul 2>&1
