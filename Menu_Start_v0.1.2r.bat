@@ -9,7 +9,7 @@ rem Data da revisão: 01/12/2022
 
 rem PS: Essa Script foi baseado no antigo Script que havia criado para atualização dos desktop.
 
-rem --> Função para Alterar a pagina do CMD para 1252 deste modo posso trabalhar com acentos e Caracteres especiais
+rem --> Função para Alterar a Pagina do CMD para 1252 deste modo posso trabalhar com acentos e Caracteres especiais
 chcp 1252 >nul 2>&1
 
 rem --> Esta função verifica se o CMD esta realmente sendo executado como Administrador
@@ -34,7 +34,7 @@ rem -->Esta Função define o caminho do Script
 set "batchPath=%~0"
 cd /d %~dp0
 
-rem -->Essa função limpa os arquivos "log" da Script de Atualização
+rem -->Essa Função Limpa os arquivos "log" da Script de Atualização
 title Limpando os logs antigos
 
 echo.
