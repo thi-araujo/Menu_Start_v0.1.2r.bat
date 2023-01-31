@@ -29,7 +29,7 @@ if '%errorlevel%' == '0' (
     goto eof
     )
 
-rem -->Esta Função define o caminho do Script
+rem -->Esta Função Define o caminho do Script
 :begin
 set "batchPath=%~0"
 cd /d %~dp0
